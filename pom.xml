@@ -87,7 +87,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.9.3</version>
+      <version>2.9.10.3</version>
     </dependency>
 
     <!-- JSR303数据校验：如果服务器是tomcat7及以上，则导入到项目即可，如果服务器是tomcat7之下的 所以el表达式功能不够强大，所以需要额外的需要给服务器的lib包中替换新的标准的el -->
